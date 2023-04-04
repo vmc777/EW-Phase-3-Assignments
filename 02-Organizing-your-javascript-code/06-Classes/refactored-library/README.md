@@ -1,0 +1,1 @@
+Go back to your “Library” example and refactor it to use class instead of plain constructors. Don’t forget to use the git workflow you learned in this foundations lesson to work on a new feature. You should get used to working like this!
